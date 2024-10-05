@@ -3,7 +3,7 @@
 - 👨‍💻 Software Engineer | Machine Learning Enthusiast
 - 🌍 Passionate about Civic Tech and helping veterans
 - 🚀 Currently working on scaling cloud-based solutions and building AI models
-- ⚽ Soccer lover and former national team player
+- ⚽ Passionate about Football and former national team player
 
 ## 🔭 I’m currently working on:
 - Developing scalable software solutions for civic tech at Civera
