@@ -1,16 +1,31 @@
-## Hi there 👋
+# Hello, I'm Akhil 👋
 
-<!--
-**akhiluthappa1/akhiluthappa1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 👨‍💻 Software Engineer | Machine Learning Enthusiast
+- 🌍 Passionate about Civic Tech and helping veterans
+- 🚀 Currently working on scaling cloud-based solutions and building AI models
+- ⚽ Soccer lover and former national team player
 
-Here are some ideas to get you started:
+## 🔭 I’m currently working on:
+- Developing scalable software solutions for civic tech at Civera
+- Fine-tuning a computer vision model to improve accuracy in election data processing
+- Enhancing cloud-based infrastructure with AWS and Spark
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🌱 I’m currently learning:
+- Advanced Causal Inference techniques for decision science
+- Cloud orchestration tools like Kubernetes for large-scale deployments
+
+## 👯 I’m looking to collaborate on:
+- Projects that help drive social impact
+- Machine learning and data science projects involving computer vision or NLP
+- Open-source tools for privacy-focused solutions
+
+## 💬 Ask me about:
+- Building machine learning pipelines
+- Cloud architecture and microservices
+- Integrating AI models into real-world applications
+
+## 📫 How to reach me:
+[LinkedIn](https://www.linkedin.com/in/akhil-uthappa/) | [GitHub](https://github.com/akhiluthappa1)
+
+## ⚡ Fun fact:
+I played for the Under-19 Indian National Soccer team at an international tournament!
